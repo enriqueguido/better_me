@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# better_me
+Exercise API Phase One
+>>>>>>> 6c4ae47397b4355c002df001d40bae53bba0c4cd
